@@ -8,6 +8,6 @@
 </h1>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">
   <div align="center">
-    <img src="./main-title.png"/>
+    <img src="https://user-images.githubusercontent.com/30947706/100550137-a2f0b080-3299-11eb-87ea-5e2f31ad5191.png"/>
   </div>
 </a>
