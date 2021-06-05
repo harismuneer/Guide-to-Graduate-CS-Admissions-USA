@@ -12,7 +12,7 @@
 </h2>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">
 </a>
-<i>Note: Hashim Sharif from UIUC gave a comprehensive talk on Graduate CS Admissions in 2021 and also highlighted resources for people who are interested in doing research work in compilers. The slides are available <a href="https://docs.google.com/presentation/d/e/2PACX-1vQBV8sqVq4MIwzw-ZpOIEq_OTavJG_waReG-_lcSAgmCrSPHPu5FVMFj38DLZZdCw/pub?start=false&loop=false&delayms=3000"> <b>here</b>. </a></i>
+<i>Also, a special thanks to Hashim Sharif (UIUC) for giving a comprehensive talk on Graduate CS Admissions in 2021 where he also highlighted resources for people who are interested in doing research work in compilers. The slides are available <a href="https://docs.google.com/presentation/d/e/2PACX-1vQBV8sqVq4MIwzw-ZpOIEq_OTavJG_waReG-_lcSAgmCrSPHPu5FVMFj38DLZZdCw/pub?start=false&loop=false&delayms=3000"> <b>here</b>. </a></i>
 
 <br>
 
