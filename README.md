@@ -7,10 +7,9 @@
   <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">
     Guide Link (Online Version)
   </a>
-</h1>
+</h2>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">
-</a>
-
+</a>For people who are interested in doing research work in compilers, this <a href="https://docs.google.com/presentation/d/e/2PACX-1vQBV8sqVq4MIwzw-ZpOIEq_OTavJG_waReG-_lcSAgmCrSPHPu5FVMFj38DLZZdCw/pub?start=false&loop=false&delayms=3000"> comprehensive guide </a> can help you get started.
 <br>
 
 <hr>
