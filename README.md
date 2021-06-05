@@ -9,9 +9,6 @@
   </a>
 </h1>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/30947706/120898748-b401ec00-c645-11eb-94b1-fe555e853751.png"/>
-  </div>
 </a>
 
 <br>
