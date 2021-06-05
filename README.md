@@ -1,9 +1,9 @@
 <a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 
 <h1><a href= "https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">Graduate CS Admissions: Masters and PhD in USA</a></h1>
-<p>This is a step-by-step guide on how to apply for PhD or MS in Computer Science. Moreover, its enriched with excellent resources containing lists of scholarships, internships and research programs available to CS students.</p>
+<p>This is a step-by-step guide on how to apply for PhD or MS in Computer Science on a fully-funded basis. Moreover, its enriched with excellent resources containing lists of scholarships, internships and research programs available to students in computing disciplines (like CS, EE, SE etc). </p>
 <hr>
-<h2 align="center">
+<h2 align="left">
   <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">
     Guide Link (Online Version)
   </a>
@@ -12,6 +12,8 @@
 </a>
 
 <br>
+
+<hr>
 <hr>
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
  <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - Maker of Things</h1> 
