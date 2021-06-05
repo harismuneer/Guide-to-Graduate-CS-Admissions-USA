@@ -1,7 +1,7 @@
 <a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 
 <h1><a href= "https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">Graduate CS Admissions: Masters and PhD in USA</a></h1>
-<p>This is a step-by-step guide on how to apply for PhD or MS in Computer Science on a fully-funded basis. Moreover, its enriched with excellent resources containing lists of scholarships, internships and research programs available to students in computing disciplines (like CS, EE, SE etc). </p>
+<p>This is a step-by-step guide on how to apply for PhD or MS in Computer Science on a fully-funded basis. Moreover, its enriched with excellent resources containing lists of scholarships, internships and research programs available to students in computing disciplines (like CS, EE, SE, DS etc). </p>
 
 <b>You can <i>star</i> this repository to bookmark this guide.</b>
 <hr>
