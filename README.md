@@ -14,6 +14,9 @@
 
 
 <hr>
+
+<h2>Webinars</h2>
+
 <h3>Talk on Graduate CS Admissions (2020) - Shoaib Asif, Haris Muneer </h3>
 <i>We gave a talk in 2020 on the admissions process and afterwards compiled all the curated advice, resources and step-by-step guidance in the form of a guide. This guide is also maintained with up-to-date material and is available <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000"> <b>here</b>. </a></i>
 
@@ -24,6 +27,7 @@
 
 <hr>
 <hr>
+<br><br>
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
  <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - Maker of Things</h1> 
 
@@ -31,7 +35,6 @@
 ### Creator of <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper">Ultimate Facebook Scraper</a> (one of the best software to collect Facebook data for research & analysis) 
 
 <hr>
-
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/harismuneer/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
