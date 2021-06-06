@@ -7,12 +7,18 @@
 <hr>
 <h2 align="left">
   <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">
-    Detailed Guide Link
+    Detailed Guide Link 
   </a>
+  <i>(an up-to-date compiled version of everything related to Graduate CS Admissions)</i>
 </h2>
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">
-</a>
-<i>Also, a special thanks to our esteemed colleague Hashim Sharif (PhD, UIUC) for giving a comprehensive talk on Graduate CS Admissions in 2021 where he also highlighted resources for people who are interested in doing research work in compilers. The slides are available <a href="https://docs.google.com/presentation/d/e/2PACX-1vRNwULuDBag03AE8_C3C1RkTzpqbDIX8EM2m-HKfnz-qTAiJ_wM-1Ynxy46nbdYaA/pub?start=false&loop=false&delayms=30000"> <b>here</b>. </a></i>
+
+
+<hr><hr>
+<h3>Talk on Graduate CS Admissions (2020) - Shoaib Asif, Haris Muneer </h3>
+<i>We gave a talk in 2020 on the admissions process and afterwards compiled all the curated advice, resources and step-by-step guidance in the form of a guide. This guide is also maintained with up-to-date material and is available <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000"> <b>here</b>. </a></i>
+
+<h3>Talk on Graduate CS Admissions (2021) - Hashim Sharif, Shoaib Asif, Haris Muneer </h3>
+<i>A special thanks to our esteemed colleague Hashim Sharif (PhD, UIUC) who gave a comprehensive talk on Graduate CS Admissions in 2021 where he also highlighted resources for people who are interested in doing research work in compilers. The slides are available <a href="https://docs.google.com/presentation/d/e/2PACX-1vRNwULuDBag03AE8_C3C1RkTzpqbDIX8EM2m-HKfnz-qTAiJ_wM-1Ynxy46nbdYaA/pub?start=false&loop=false&delayms=30000"> <b>here</b>. </a></i>
 
 <br>
 
