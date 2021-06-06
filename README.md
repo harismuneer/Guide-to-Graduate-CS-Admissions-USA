@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2>Webinars</h2>
+<h2>Sessions/Talks</h2>
 
 <h3>Talk on Graduate CS Admissions (2020) - Shoaib Asif, Haris Muneer </h3>
 <i>We gave a talk in 2020 on the admissions process and afterwards compiled all the curated advice, resources and step-by-step guidance in the form of a guide. This guide is also maintained with up-to-date material and is available <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000"> <b>here</b>. </a></i>
