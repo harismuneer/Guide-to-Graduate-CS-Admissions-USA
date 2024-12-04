@@ -9,14 +9,6 @@
 <p>This is a step-by-step guide on how to apply for PhD or MS in Computer Science on a fully-funded basis. Moreover, its enriched with excellent resources containing lists of scholarships, internships and research programs available to students in computing disciplines (like CS, EE, SE, DS etc). </p>
 
 <b>You can <i>⭐ star</i> this repository to bookmark this guide for future reference.</b>
-<hr>
-<h3 align="left">
-  <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ7XjEQcSjzX18Ctl9OoBDZl15xQCEEk83GgF2yPbUDKZPuHJIbVaLC8JjrRaxAG-4u6Ka9tzDq2tYp/pub?start=false&loop=false&delayms=60000">
-    Detailed Guide Link 
-  </a>
-  <i>(an up-to-date compiled version of everything related to Graduate CS Admissions)</i>
-</h3>
-
 
 <hr>
 
